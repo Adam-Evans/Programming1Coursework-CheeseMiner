@@ -1,0 +1,5 @@
+F:\Programming 101 Coursework Game\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+F:\Programming 101 Coursework Game\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\Programming 101 Coursework Game\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\Programming 101 Coursework Game\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+F:\Programming 101 Coursework Game\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
